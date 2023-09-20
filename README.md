@@ -11,3 +11,5 @@ To run this application:
 ```python
 python manage.py runserver
 ```
+
+![alt text](https://github.com/formsgtest/TheCat-FlaskWebsite/blob/main/Screenshot%202023-09-19%20125356.png?raw=true)
